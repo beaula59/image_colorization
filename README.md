@@ -1,4 +1,4 @@
-# From Gray to Vivid: Image Colorization with Deep Learning
+# From Gray to Vivid: Methods and Metrics for Image Colorization
 
 This project explores advanced methods for image colorization using deep learning. We enhance existing approaches with curriculum learning, perceptual loss, and an ensemble of models, while proposing improved aesthetic evaluation metrics. Our experiments on ImageNet and COCO datasets show that these strategies improve color fidelity, perceptual quality, and overall robustness, with trade-offs tailored for specific goals like vividness or structural accuracy.
 
